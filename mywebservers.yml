@@ -10,4 +10,4 @@
   - name: in this tasks. i want to start webservers
     service:
       name: apache2
-      state: starte
+      state: started
